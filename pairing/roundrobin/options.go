@@ -4,7 +4,7 @@
 package roundrobin
 
 import (
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 // Options holds configurable settings for round-robin pairing.

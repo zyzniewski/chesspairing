@@ -8,8 +8,8 @@ import (
 	"context"
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/pairing/swisslib"
+	"github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/pairing/swisslib"
 )
 
 func TestPair_Round1_FourPlayers(t *testing.T) {

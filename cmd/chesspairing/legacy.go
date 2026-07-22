@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	cp "github.com/gnutterts/chesspairing"
+	cp "github.com/zyzniewski/chesspairing"
 )
 
 // parsedLegacyArgs holds the parsed state from legacy CLI arguments.

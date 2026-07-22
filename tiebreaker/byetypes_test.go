@@ -7,7 +7,7 @@ import (
 	"context"
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 // allByeTypes returns every defined ByeType value. Adding a new ByeType

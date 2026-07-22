@@ -29,7 +29,7 @@ chesspairing pair --roundrobin tournament.trf
 ### Go API
 
 ```go
-import "github.com/gnutterts/chesspairing/pairing/roundrobin"
+import "github.com/zyzniewski/chesspairing/pairing/roundrobin"
 
 // Met getypeerde opties
 p := roundrobin.New(roundrobin.Options{

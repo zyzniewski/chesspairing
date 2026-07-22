@@ -8,8 +8,8 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/pairing/swisslib"
+	"github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/pairing/swisslib"
 )
 
 // TestFIDE_DoubleSwiss_6Player5Round plays a full 5-round tournament with

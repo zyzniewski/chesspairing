@@ -7,9 +7,9 @@ import (
 	"context"
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/algorithm/varma"
-	"github.com/gnutterts/chesspairing/pairing/roundrobin"
+	"github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/algorithm/varma"
+	"github.com/zyzniewski/chesspairing/pairing/roundrobin"
 )
 
 func TestVarmaRoundRobinFederationSeparation(t *testing.T) {

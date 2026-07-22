@@ -6,7 +6,7 @@ package swisslib
 import (
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 func TestValidatePairing_Valid(t *testing.T) {

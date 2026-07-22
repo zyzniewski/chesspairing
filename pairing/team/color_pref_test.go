@@ -6,7 +6,7 @@ package team
 import (
 	"testing"
 
-	"github.com/gnutterts/chesspairing/pairing/lexswiss"
+	"github.com/zyzniewski/chesspairing/pairing/lexswiss"
 )
 
 // --- Type A tests ---

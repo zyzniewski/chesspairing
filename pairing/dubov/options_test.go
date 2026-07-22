@@ -6,7 +6,7 @@ package dubov
 import (
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 func TestOptionsWithDefaults(t *testing.T) {

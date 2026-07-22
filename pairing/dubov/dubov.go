@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/pairing/swisslib"
+	"github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/pairing/swisslib"
 )
 
 // ErrTooFewPlayers is returned when there aren't enough active players.

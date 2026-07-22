@@ -6,8 +6,8 @@ package burstein
 import (
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/pairing/swisslib"
+	"github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/pairing/swisslib"
 )
 
 func TestComputeOppositionIndex(t *testing.T) {

@@ -12,8 +12,8 @@ import (
 	"strings"
 	"text/tabwriter"
 
-	cp "github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/trf"
+	cp "github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/trf"
 )
 
 // formatPairList writes bbpPairings-compatible pair output.

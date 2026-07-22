@@ -9,7 +9,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 func TestNew(t *testing.T) {

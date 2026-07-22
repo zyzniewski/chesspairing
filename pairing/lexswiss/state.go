@@ -21,7 +21,7 @@ package lexswiss
 import (
 	"sort"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 // Color represents a participant's colour assignment in a round.

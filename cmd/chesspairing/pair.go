@@ -10,8 +10,8 @@ import (
 	"io"
 	"os"
 
-	cp "github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/trf"
+	cp "github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/trf"
 )
 
 const pairUsage = `Usage: chesspairing pair SYSTEM input-file [options]

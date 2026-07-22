@@ -46,7 +46,7 @@ any tiebreaker by string ID.
 ## Use as a Go library
 
 ```
-go get github.com/gnutterts/chesspairing
+go get github.com/zyzniewski/chesspairing
 ```
 
 ```go

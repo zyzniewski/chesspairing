@@ -28,7 +28,7 @@ chesspairing pair --team tournament.trf
 ### Go API
 
 ```go
-import "github.com/gnutterts/chesspairing/pairing/team"
+import "github.com/zyzniewski/chesspairing/pairing/team"
 
 // Met getypeerde opties
 p := team.New(team.Options{

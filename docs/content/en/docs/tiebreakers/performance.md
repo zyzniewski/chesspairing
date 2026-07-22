@@ -123,8 +123,8 @@ If the player has no OTB games, the value is 0.
 import (
     "context"
 
-    "github.com/gnutterts/chesspairing"
-    "github.com/gnutterts/chesspairing/tiebreaker"
+    "github.com/zyzniewski/chesspairing"
+    "github.com/zyzniewski/chesspairing/tiebreaker"
 )
 
 // Average Rating of Opponents

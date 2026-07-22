@@ -3,7 +3,7 @@
 
 package team
 
-import "github.com/gnutterts/chesspairing/pairing/lexswiss"
+import "github.com/zyzniewski/chesspairing/pairing/lexswiss"
 
 // ColorPrefType identifies which colour preference rules to use.
 type ColorPrefType int

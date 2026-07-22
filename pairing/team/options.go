@@ -20,7 +20,7 @@ package team
 import (
 	"strings"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 // Pairer implements the chesspairing.Pairer interface for the Team Swiss system.

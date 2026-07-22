@@ -7,7 +7,7 @@ import (
 	"reflect"
 	"testing"
 
-	cp "github.com/gnutterts/chesspairing"
+	cp "github.com/zyzniewski/chesspairing"
 )
 
 func mkGame(t *testing.T, white, black, result string) cp.GameData {

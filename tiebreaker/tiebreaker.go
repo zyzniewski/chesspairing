@@ -14,7 +14,7 @@ package tiebreaker
 import (
 	"fmt"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 // registry maps tiebreaker IDs to constructor functions.

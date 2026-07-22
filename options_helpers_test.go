@@ -6,7 +6,7 @@ package chesspairing_test
 import (
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 func TestFloat64Ptr(t *testing.T) {

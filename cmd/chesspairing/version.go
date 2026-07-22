@@ -11,8 +11,8 @@ import (
 	"io"
 	"sort"
 
-	cp "github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/tiebreaker"
+	cp "github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/tiebreaker"
 )
 
 const versionUsage = `Usage: chesspairing version [options]

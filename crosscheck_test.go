@@ -10,12 +10,12 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/pairing/doubleswiss"
-	"github.com/gnutterts/chesspairing/pairing/dubov"
-	"github.com/gnutterts/chesspairing/pairing/dutch"
-	"github.com/gnutterts/chesspairing/pairing/lim"
-	"github.com/gnutterts/chesspairing/pairing/team"
+	"github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/pairing/doubleswiss"
+	"github.com/zyzniewski/chesspairing/pairing/dubov"
+	"github.com/zyzniewski/chesspairing/pairing/dutch"
+	"github.com/zyzniewski/chesspairing/pairing/lim"
+	"github.com/zyzniewski/chesspairing/pairing/team"
 )
 
 // normalizedPair is a pair of player IDs with the lower ID first.

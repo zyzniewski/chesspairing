@@ -6,7 +6,7 @@ package swisslib
 import (
 	"fmt"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 // ValidatePairing checks that a PairingResult is structurally valid:

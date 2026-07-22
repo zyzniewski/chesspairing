@@ -11,9 +11,9 @@ import (
 	"os"
 	"strings"
 
-	cp "github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/standings"
-	"github.com/gnutterts/chesspairing/trf"
+	cp "github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/standings"
+	"github.com/zyzniewski/chesspairing/trf"
 )
 
 const standingsUsage = `Usage: chesspairing standings [SYSTEM] input-file [options]

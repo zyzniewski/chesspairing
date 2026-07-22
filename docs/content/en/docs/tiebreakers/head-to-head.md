@@ -76,8 +76,8 @@ For each OTB game in the player's game list:
 import (
     "context"
 
-    "github.com/gnutterts/chesspairing"
-    "github.com/gnutterts/chesspairing/tiebreaker"
+    "github.com/zyzniewski/chesspairing"
+    "github.com/zyzniewski/chesspairing/tiebreaker"
 )
 
 // Direct Encounter

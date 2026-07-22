@@ -19,7 +19,7 @@ import (
 	"sort"
 	"strings"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 func main() {

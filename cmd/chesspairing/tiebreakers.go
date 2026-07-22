@@ -12,7 +12,7 @@ import (
 	"sort"
 	"text/tabwriter"
 
-	"github.com/gnutterts/chesspairing/tiebreaker"
+	"github.com/zyzniewski/chesspairing/tiebreaker"
 )
 
 const tiebreakersUsage = `Usage: chesspairing tiebreakers [options]

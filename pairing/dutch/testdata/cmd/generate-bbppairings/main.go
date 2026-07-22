@@ -27,7 +27,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 const bbpPairingsPath = "bbpPairings"

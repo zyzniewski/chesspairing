@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"io"
 
-	cp "github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/trf"
+	cp "github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/trf"
 )
 
 const checkUsage = `Usage: chesspairing check SYSTEM input-file [options]

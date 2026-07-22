@@ -4,7 +4,7 @@
 package dubov
 
 import (
-	"github.com/gnutterts/chesspairing/pairing/swisslib"
+	"github.com/zyzniewski/chesspairing/pairing/swisslib"
 )
 
 // NumDubovViolations is the number of quality criteria (C4-C10).

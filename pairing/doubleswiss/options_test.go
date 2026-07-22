@@ -6,7 +6,7 @@ package doubleswiss
 import (
 	"testing"
 
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 func TestPairerImplementsInterface(t *testing.T) {

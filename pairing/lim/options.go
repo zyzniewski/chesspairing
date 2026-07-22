@@ -18,7 +18,7 @@
 package lim
 
 import (
-	"github.com/gnutterts/chesspairing"
+	"github.com/zyzniewski/chesspairing"
 )
 
 // Pairer implements the chesspairing.Pairer interface for the Lim Swiss system.

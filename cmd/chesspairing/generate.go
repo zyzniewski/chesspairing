@@ -19,8 +19,8 @@ import (
 	"strconv"
 	"strings"
 
-	cp "github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/trf"
+	cp "github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/trf"
 )
 
 // rtgConfig holds RTG configuration (bbpPairings-compatible keys).

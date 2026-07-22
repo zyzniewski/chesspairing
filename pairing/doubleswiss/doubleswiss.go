@@ -7,8 +7,8 @@ import (
 	"context"
 	"sort"
 
-	"github.com/gnutterts/chesspairing"
-	"github.com/gnutterts/chesspairing/pairing/lexswiss"
+	"github.com/zyzniewski/chesspairing"
+	"github.com/zyzniewski/chesspairing/pairing/lexswiss"
 )
 
 // Pair implements chesspairing.Pairer for the Double-Swiss system.
